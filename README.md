@@ -2,7 +2,7 @@
 
 A responsive content management dashboard built with HTML, CSS, and vanilla JavaScript.
 
-**Live preview:** Coming soon.
+**Live preview:** https://farzin-maleki.github.io/Control-Mangement-System-Project/.
 
 <!-- Replace the line above with: **Live preview:** [View demo](YOUR_PREVIEW_URL) -->
 
